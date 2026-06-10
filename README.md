@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,45:1F6FEB,100:7C3AED&text=John-Natty&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Learning%20-%20Building%20-%20Improving&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1F6FEB,100:7C3AED&text=John-Natty&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Développeur%20Web%20en%20formation%20à%20Holberton%20School%20Toulouse&descSize=19&descAlignY=58" />
 
-### Développeur Web en formation à Holberton School Toulouse
+### Apprendre · Construire · Progresser
 
 </div>
 
