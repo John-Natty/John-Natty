@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1F6FEB,100:7C3AED&text=John-Natty&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Développeur%20Web%20en%20formation%20à%20Holberton%20School%20Toulouse&descSize=19&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,35:2E1065,70:581C87,100:7E22CE&text=John-Natty&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Développeur%20Web%20en%20formation%20à%20Holberton%20School%20Toulouse&descSize=19&descAlignY=58" />
 
 </div>
+
+<br>
 
 <div align="center">
 
 ### Holberton School Toulouse | Web Development | AI Augmented Learning
 
+</div>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20my%20GitHub&fontSize=38&fontAlign=50&fontAlignY=35&desc=Learning%20-%20Building%20-%20Improving&descAlign=50&descAlignY=58&animation=fadeIn" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2E1065,50:581C87,100:7E22CE&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Learning%20-%20Building%20-%20Improving&descSize=18&descAlignY=62" />
 
 </div>
 
