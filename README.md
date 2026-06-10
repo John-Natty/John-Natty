@@ -94,23 +94,40 @@ Je cherche à apprendre, pratiquer, améliorer mes projets et construire progres
 
 ---
 
-## Statistiques GitHub
+## En progression actuellement
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=John-Natty&style=for-the-badge&label=Visites+du+profil" />
-
-<img src="https://img.shields.io/github/followers/John-Natty?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/badge/Holberton%20School-Toulouse-E1003C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Formation-Développement%20Web-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Profil-En%20construction%20active-success?style=for-the-badge" />
 
 </div>
 
 <br>
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Ce que j'apprends</h3>
+      <p>
+        Je développe mes compétences en développement web, algorithmie,
+        bases de données, Git/GitHub et bonnes pratiques de programmation.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Ce que je construis</h3>
+      <p>
+        Je publie progressivement des projets réalisés pendant ma formation,
+        avec l’objectif d’améliorer mon code, ma logique et ma méthode de travail.
+      </p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-### Profil en construction active
-
-Je publie progressivement mes projets réalisés pendant ma formation à Holberton School Toulouse.
+### Apprendre. Pratiquer. Construire. Améliorer.
 
 </div>
 
