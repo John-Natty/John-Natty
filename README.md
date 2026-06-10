@@ -1,6 +1,9 @@
 <div align="center">
 
-# John-Natty
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:1F6FEB&text=John-Natty&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Développeur%20Web%20en%20formation&descSize=22&descAlignY=58" />
+
+</div>
+<div align="center">
 
 ### Développeur Web en formation  
 ### Holberton School Toulouse | Web Development | AI Augmented Learning
