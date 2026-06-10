@@ -94,13 +94,13 @@ Je cherche à apprendre, pratiquer, améliorer mes projets et construire progres
 
 ---
 
-## En progression actuellement
+## Formation & objectifs
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Holberton%20School-Toulouse-E1003C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Formation-Développement%20Web-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Profil-En%20construction%20active-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Développement%20Web-En%20formation-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apprentissage-Continu-success?style=for-the-badge" />
 
 </div>
 
@@ -109,27 +109,23 @@ Je cherche à apprendre, pratiquer, améliorer mes projets et construire progres
 <table>
   <tr>
     <td width="50%">
-      <h3>Ce que j'apprends</h3>
+      <h3>Formation</h3>
       <p>
-        Je développe mes compétences en développement web, algorithmie,
-        bases de données, Git/GitHub et bonnes pratiques de programmation.
+        Je suis actuellement une formation en développement web chez
+        Holberton School Toulouse, avec une approche basée sur la pratique,
+        les projets concrets et la progression continue.
       </p>
     </td>
     <td width="50%">
-      <h3>Ce que je construis</h3>
+      <h3>Objectif</h3>
       <p>
-        Je publie progressivement des projets réalisés pendant ma formation,
-        avec l’objectif d’améliorer mon code, ma logique et ma méthode de travail.
+        Mon objectif est de devenir un développeur capable de créer des
+        applications utiles, bien structurées, maintenables et pensées pour
+        l'expérience utilisateur.
       </p>
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-### Apprendre. Pratiquer. Construire. Améliorer.
-
-</div>
 
 ---
 
