@@ -96,11 +96,13 @@ Je cherche à apprendre, pratiquer, améliorer mes projets et construire progres
 
 ## Statistiques GitHub
 
+## Statistiques GitHub
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=John-Natty&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=John-Natty&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Natty&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Natty&layout=compact&theme=tokyonight&hide_border=true&locale=fr" />
 
 </div>
 
