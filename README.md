@@ -98,9 +98,11 @@ Je cherche à apprendre, pratiquer, améliorer mes projets et construire progres
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=John-Natty&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" />
+<img src="https://komarev.com/ghpvc/?username=John-Natty&style=for-the-badge&label=Visites+du+profil" />
 
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Natty&layout=compact&theme=tokyonight&hide_border=true&locale=fr" />
+<img src="https://img.shields.io/github/followers/John-Natty?style=for-the-badge&logo=github&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/John-Natty?style=for-the-badge&logo=github&label=Stars" />
 
 </div>
 
