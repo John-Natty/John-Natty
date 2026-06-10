@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,50:0F172A,100:1E3A8A&text=John-Natty&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Learning%20-%20Building%20-%20Improving&descSize=20&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=John-Natty&fontSize=58&fontColor=FFFFFF&animation=fadeIn&desc=Développeur%20Web%20en%20formation%20à%20Holberton%20School%20Toulouse&descSize=18&descAlignY=68" />
 
 </div>
+
 <div align="center">
 
 ### Développeur Web en formation  
