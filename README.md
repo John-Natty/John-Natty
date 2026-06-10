@@ -2,13 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1F6FEB,100:7C3AED&text=John-Natty&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Développeur%20Web%20en%20formation%20à%20Holberton%20School%20Toulouse&descSize=19&descAlignY=58" />
 
-### Apprendre · Construire · Progresser
-
 </div>
 
 <div align="center">
 
-### Développeur Web en formation  
 ### Holberton School Toulouse | Web Development | AI Augmented Learning
 
 <br>
