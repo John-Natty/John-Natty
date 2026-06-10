@@ -102,7 +102,15 @@ Je cherche à apprendre, pratiquer, améliorer mes projets et construire progres
 
 <img src="https://img.shields.io/github/followers/John-Natty?style=for-the-badge&logo=github&label=Followers" />
 
-<img src="https://img.shields.io/github/stars/John-Natty?style=for-the-badge&logo=github&label=Stars" />
+</div>
+
+<br>
+
+<div align="center">
+
+### Profil en construction active
+
+Je publie progressivement mes projets réalisés pendant ma formation à Holberton School Toulouse.
 
 </div>
 
