@@ -114,7 +114,7 @@ Je cherche à apprendre, pratiquer, améliorer mes projets et construire progres
   <img src="https://img.shields.io/badge/GitHub-John--Natty-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/](https://www.linkedin.com/in/jonathan-martin-60a785365/">
+<a href="https://www.linkedin.com/in/jonathan-martin-60a785365">
   <img src="https://img.shields.io/badge/LinkedIn-Profil%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
